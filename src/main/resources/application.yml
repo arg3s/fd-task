@@ -1,0 +1,4 @@
+evaluation:
+  properties:
+    codecsInMemorySize: -1
+    timeoutMillis: 2000
